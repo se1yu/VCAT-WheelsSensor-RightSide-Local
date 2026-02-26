@@ -1,0 +1,24 @@
+Description,Qty,P/N
+Schottky diode,1,MBR0520LT1G 
+Hall Effect Sensor,1,55505-00-02-A
+XIAO Esp32s3,1,113991114
+Board-to-board connector for Peripheral SOM daughterboards,1,53307-2471
+MX150 2x2 Connector,1,757575121
+Inductor,1,MSS1246-104MLC 
+Schottky diode,1,MP01EA06 
+IMU Sensor,1,ASM330LHHTR
+"Low-power, Rail-to-Rail, 1MHz Operational Amplifier, SOT-353",1,TLV9001IDCKR
+Buck Switching Regulator IC Positive Fixed 5V,1,TPS5405DR
+Unpolarized capacitor 100nf,3,MLASH168SB7104KTNA01
+Unpolarized capacitor 10uf,1,GRM21BR61H106KE43K
+Unpolarized capacitor 10uf,4,GRM21BR61H106KE43K
+Unpolarized capacitor 1uF,1,MLASU168SB5105KTNA01
+Unpolarized capacitor 10nF,1,MSASH168SB5103KTNA01
+Unpolarized capacitor 3.3nF,1,MSASH168SB5103KTNA01
+Unpolarized capacitor 0.1uF,1,MLASH168SB7104KTNA01
+Light emitting diode,4,LTST-C193TBKT-5A
+THT Blade fuse holder,1,3568
+Resistor 1.5k,3,CRCW06032K00FKEA
+Resistor 4.2k,1,CRCW06034K30FKEA
+Resistor 10k,2,CRCW060310K0FKEI 
+Resistor 16k,1,CRCW060316K0FKTA 
